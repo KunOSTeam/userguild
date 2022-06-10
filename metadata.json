@@ -1,0 +1,17 @@
+{
+  "type": "application",
+  "name": "FirstBoot",
+  "category": null,
+  "autostart": true,
+  "singleton": true,
+  "hidden": true,
+  "title": {
+    "en_EN": "First Boot"
+  },
+  "description": {
+    "en_EN": "First Boot"
+  },
+  "files": [
+    "main.js"
+  ]
+}
